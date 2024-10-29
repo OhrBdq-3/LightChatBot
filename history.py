@@ -1,4 +1,3 @@
-import pandas as pd
 import uuid
 import json
 from config import HISTORY_DB_PATH
