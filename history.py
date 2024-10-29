@@ -23,7 +23,7 @@ def load_history():
                 
 def get_button_label(history):
     if len(history)>=1:
-        return f"{history[-1].get('content','Chat History')[:40]}..."
+        return f"{history[-1].get('content','Chat History')[:10]}..."
     return "Chat History"
 
 
