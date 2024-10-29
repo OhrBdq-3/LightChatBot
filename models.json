@@ -1,0 +1,14 @@
+[
+    {
+        "model": {
+            "name": "llama3.2:1b",
+            "url": "http://127.0.0.1:11433/api/chat"
+        }
+    },
+    {
+        "model": {
+            "name": "qwen2.5-coder:1.5b",
+            "url": "http://127.0.0.1:11433/api/chat"
+        }
+    }
+]
